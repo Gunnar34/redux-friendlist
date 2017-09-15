@@ -1,4 +1,4 @@
-react-hot-redux
+## react-hot-redux
 
 simple project to get further into redux with react
 
